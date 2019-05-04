@@ -1,0 +1,14 @@
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Form1.resources
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\Users\Teq\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
